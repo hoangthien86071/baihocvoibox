@@ -1,0 +1,22 @@
+.box,
+.box1,
+.box3,
+.box4 {
+  width: 250px;
+  height: 10px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+  background-color: lightblue;
+  box-sizing: border-box;
+  text-align: center;
+}
+.box1 {
+  background-color: blueviolet;
+}
+.box3 {
+  background-color: chartreuse;
+}
+.box4 {
+  background-color: lightyellow;
+}
